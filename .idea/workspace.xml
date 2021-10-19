@@ -4,9 +4,30 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Add project Tic-tac-toe">
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/sklad/target/Tic-tac-toe-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/net/sklad/target/maven-archiver/pom.properties" afterDir="false" />
+    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Add Project tic-tac-toe">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Tic-tac-toe-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/Launcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/CelVerifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/CellNumberConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/ComputerMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/DataPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/UserMove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/WinnerVerifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/keypad/DesktopNumericKeypadCellNumberConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/keypad/TerminalNumericKeypadCellNumberConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/model/Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/model/GameTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +41,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/net/sklad" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -107,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634291538082</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Project tic-tac-toe">
+      <created>1634300954304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634300954304</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +164,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add project Tic-tac-toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add project Tic-tac-toe" />
+    <MESSAGE value="Add Project tic-tac-toe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Project tic-tac-toe" />
   </component>
 </project>
