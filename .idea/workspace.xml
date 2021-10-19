@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Add Assembly plugin Win and Unix">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scripts/start.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scripts/start.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scripts/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scripts/start.sh" afterDir="false" />
-    </list>
+    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Update NOTICE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634622580780</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update NOTICE">
+      <created>1634623458285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634623458285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update NOTICE">
+      <created>1634623520668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634623520668</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +163,7 @@
     <MESSAGE value="Add project Tic-tac-toe" />
     <MESSAGE value="Add Project tic-tac-toe" />
     <MESSAGE value="Add Assembly plugin Win and Unix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Assembly plugin Win and Unix" />
+    <MESSAGE value="Update NOTICE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update NOTICE" />
   </component>
 </project>
