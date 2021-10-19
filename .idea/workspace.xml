@@ -4,30 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Add Project tic-tac-toe">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="8bd4c0dc-e46c-4c7f-8e66-b2d408231f08" name="Changes" comment="Add Assembly plugin Win and Unix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Tic-tac-toe-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/Launcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/CelVerifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/CellNumberConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/ComputerMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/DataPrinter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/UserMove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/WinnerVerifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/keypad/DesktopNumericKeypadCellNumberConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/component/keypad/TerminalNumericKeypadCellNumberConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/model/Cell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/net/sklad/model/GameTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assembly/distribution-unix.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/assembly/distribution-windows.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scripts/start.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scripts/start.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scripts/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scripts/start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634300954304</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add Assembly plugin Win and Unix">
+      <created>1634622580780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634622580780</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add project Tic-tac-toe" />
     <MESSAGE value="Add Project tic-tac-toe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Project tic-tac-toe" />
+    <MESSAGE value="Add Assembly plugin Win and Unix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Assembly plugin Win and Unix" />
   </component>
 </project>
